@@ -65,13 +65,6 @@ MessTrack is a smart hostel meal attendance management system built using RFID t
 * Low-cost and scalable solution
 * Suitable for real hostel environments
 
----
-
-## 📷 Screenshots
-
-Add your project screenshots here.
-
----
 
 ## 📂 Installation
 
